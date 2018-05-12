@@ -7,7 +7,7 @@ contributor:
     - Latham, Rose Cecil O'Neill
     - Wilson, Rose Cecil O'Neill
     birthdate: 1874
-    deathdate: &id001 1944
+    deathdate: 1944
     gutenberg_agent_id: '33571'
     url: http://www.gutenberg.org/2009/agents/33571
 covers:
@@ -18,10 +18,12 @@ creator:
     agent_name: Fillmore, Parker
     alias: Fillmore, Parker H. (Parker Hoysted)
     birthdate: 1878
-    deathdate: *id001
+    deathdate: 1944
     gutenberg_agent_id: '8828'
     url: http://www.gutenberg.org/2009/agents/8828
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28886#The-Hickory-Limb
 gutenberg_issued: '2009-05-20'
 gutenberg_type: Text
 identifiers:
